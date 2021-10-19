@@ -1,0 +1,10 @@
+kind: Cluster
+metadata:
+  name: azure-eastus2-1-rema9
+  labels:
+    cloud: azure
+    geo: US
+    region: eastus2
+spec:
+  environments:
+    - dev
