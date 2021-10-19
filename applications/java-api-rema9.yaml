@@ -1,0 +1,11 @@
+kind: ApplicationDeployment
+metadata:
+  name: java-api-rema9
+spec:
+  repo: https://github.com/renato-marciano/java-api-rema9
+  ref: main
+  path: app.yaml
+  selector:
+    environment: dev
+    geo: US
+  clusters: 1
