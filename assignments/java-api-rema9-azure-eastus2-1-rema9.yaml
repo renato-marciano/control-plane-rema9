@@ -1,0 +1,6 @@
+kind: ApplicationAssignment
+metadata:
+  name: java-api-rema9-azure-eastus2-1-rema9
+spec:
+  application: java-api-rema9
+  cluster: azure-eastus2-1-rema9
