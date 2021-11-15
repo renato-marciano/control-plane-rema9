@@ -1,0 +1,10 @@
+kind: Cluster
+metadata:
+  name: Cluster4
+  labels:
+    cloud: AWS
+    Region: eastus1
+spec:
+  environments:
+    - env1
+    - env2
