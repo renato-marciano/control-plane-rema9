@@ -1,0 +1,8 @@
+kind: Cluster
+metadata:
+  name: New1
+  labels:
+    label1: label2
+spec:
+  environments:
+    - env
