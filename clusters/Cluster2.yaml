@@ -1,0 +1,10 @@
+kind: Cluster
+metadata:
+  name: Cluster2
+  labels:
+    cloud: AWS
+    Geo: US
+spec:
+  environments:
+    - dev4
+    - dev5
