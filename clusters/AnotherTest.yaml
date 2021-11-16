@@ -1,7 +1,0 @@
-kind: Cluster
-metadata:
-  name: AnotherTest
-  labels:
-    asdf: sdf
-    asdf1: '234'
-spec: {}
