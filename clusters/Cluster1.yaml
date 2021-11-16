@@ -1,6 +1,10 @@
 kind: Cluster
 metadata:
   name: Cluster1
+  labels:
+    cloud: Azure
+    geo: US
 spec:
   environments:
     - qa
+    - prod
