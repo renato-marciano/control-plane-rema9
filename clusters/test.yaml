@@ -1,5 +1,0 @@
-kind: Cluster
-metadata:
-  name: test
-  labels: {}
-spec: {}
