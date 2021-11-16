@@ -1,0 +1,9 @@
+kind: Cluster
+metadata:
+  name: Cluster5
+  labels:
+    cloud: azure
+    geo: US
+spec:
+  environments:
+    - dev
