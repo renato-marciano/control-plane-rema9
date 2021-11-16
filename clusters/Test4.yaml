@@ -1,4 +1,0 @@
-kind: Cluster
-metadata:
-  name: Test4
-spec: {}

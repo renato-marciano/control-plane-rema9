@@ -1,4 +1,0 @@
-kind: Cluster
-metadata:
-  name: asdf
-spec: {}
