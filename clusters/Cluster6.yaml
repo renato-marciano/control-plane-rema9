@@ -1,0 +1,9 @@
+kind: Cluster
+metadata:
+  name: Cluster6
+  labels:
+    cloud: Azure
+    geo: US
+spec:
+  environments:
+    - dev
