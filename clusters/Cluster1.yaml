@@ -2,9 +2,8 @@ kind: Cluster
 metadata:
   name: Cluster1
   labels:
-    cloud: Azure
     geo: US
-    test-new: test
+    region: useast2
 spec:
   environments:
     - qa
