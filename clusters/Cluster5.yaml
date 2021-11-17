@@ -1,6 +1,0 @@
-kind: Cluster
-metadata:
-  name: Cluster5
-spec:
-  environments:
-    - qa
