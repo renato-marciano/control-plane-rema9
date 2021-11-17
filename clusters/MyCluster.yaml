@@ -1,0 +1,10 @@
+kind: Cluster
+metadata:
+  name: MyCluster
+  labels:
+    Test2: new
+    Test3: as
+spec:
+  environments:
+    - dev
+    - qa
