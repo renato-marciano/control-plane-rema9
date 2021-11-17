@@ -4,6 +4,7 @@ metadata:
   labels:
     cloud: Azure
     geo: US
+    test-new: test
 spec:
   environments:
     - qa
