@@ -1,0 +1,6 @@
+kind: Cluster
+metadata:
+  name: Cluster2
+spec:
+  environments:
+    - dev
