@@ -1,0 +1,6 @@
+kind: Cluster
+metadata:
+  name: cluster44
+  labels:
+    region: '5'
+spec: {}
