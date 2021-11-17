@@ -1,0 +1,10 @@
+kind: Cluster
+metadata:
+  name: Cluster3
+  labels:
+    geo: US
+    cloud: AWS
+spec:
+  environments:
+    - dev
+    - qa
