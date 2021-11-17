@@ -1,0 +1,10 @@
+kind: Cluster
+metadata:
+  name: Cluster3
+  labels:
+    cloud: Azure
+    geo: US
+spec:
+  environments:
+    - dev
+    - prod
