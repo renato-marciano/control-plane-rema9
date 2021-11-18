@@ -1,10 +1,4 @@
 kind: Cluster
 metadata:
   name: Cluster1
-  labels:
-    geo: US
-    region: useast2
-spec:
-  environments:
-    - qa
-    - prod
+spec: {}
