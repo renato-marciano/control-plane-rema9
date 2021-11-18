@@ -1,0 +1,8 @@
+kind: Cluster
+metadata:
+  name: Cluster5
+  labels:
+    new: new
+spec:
+  environments:
+    - dev
