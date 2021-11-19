@@ -1,0 +1,4 @@
+kind: Cluster
+metadata:
+  name: Cluster55
+spec: {}
