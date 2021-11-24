@@ -1,0 +1,8 @@
+kind: Cluster
+metadata:
+  name: Z
+  labels:
+    label1: label
+spec:
+  environments:
+    - lvironment
