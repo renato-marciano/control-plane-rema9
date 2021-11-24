@@ -1,0 +1,8 @@
+kind: Cluster
+metadata:
+  name: Cluster98
+  labels:
+    asdf: asdf
+spec:
+  environments:
+    - adsf
