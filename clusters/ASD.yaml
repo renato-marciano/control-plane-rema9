@@ -1,0 +1,8 @@
+kind: Cluster
+metadata:
+  name: ASD
+  labels:
+    adsf: '24'
+spec:
+  environments:
+    - as=we
